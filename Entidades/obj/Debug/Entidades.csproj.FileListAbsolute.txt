@@ -1,0 +1,5 @@
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Entidades\obj\Debug\Entidades.pdb

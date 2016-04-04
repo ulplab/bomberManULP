@@ -55,12 +55,12 @@
             this.pictureBox34 = new System.Windows.Forms.PictureBox();
             this.pictureBox32 = new System.Windows.Forms.PictureBox();
             this.pictureBox30 = new System.Windows.Forms.PictureBox();
-            this.pb111 = new System.Windows.Forms.PictureBox();
-            this.pb19 = new System.Windows.Forms.PictureBox();
-            this.pb17 = new System.Windows.Forms.PictureBox();
-            this.pb15 = new System.Windows.Forms.PictureBox();
-            this.pb13 = new System.Windows.Forms.PictureBox();
-            this.pb11 = new System.Windows.Forms.PictureBox();
+            this.pb0111 = new System.Windows.Forms.PictureBox();
+            this.pb0109 = new System.Windows.Forms.PictureBox();
+            this.pb0107 = new System.Windows.Forms.PictureBox();
+            this.pb0105 = new System.Windows.Forms.PictureBox();
+            this.pb0103 = new System.Windows.Forms.PictureBox();
+            this.pb0101 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -69,14 +69,14 @@
             this.pictureBox94 = new System.Windows.Forms.PictureBox();
             this.pictureBox95 = new System.Windows.Forms.PictureBox();
             this.pictureBox96 = new System.Windows.Forms.PictureBox();
-            this.pb112 = new System.Windows.Forms.PictureBox();
-            this.pb012 = new System.Windows.Forms.PictureBox();
+            this.pb0112 = new System.Windows.Forms.PictureBox();
+            this.pb0012 = new System.Windows.Forms.PictureBox();
             this.pictureBox99 = new System.Windows.Forms.PictureBox();
             this.pictureBox100 = new System.Windows.Forms.PictureBox();
             this.pictureBox102 = new System.Windows.Forms.PictureBox();
             this.pictureBox104 = new System.Windows.Forms.PictureBox();
             this.pictureBox106 = new System.Windows.Forms.PictureBox();
-            this.pb011 = new System.Windows.Forms.PictureBox();
+            this.pb0011 = new System.Windows.Forms.PictureBox();
             this.pictureBox110 = new System.Windows.Forms.PictureBox();
             this.pictureBox111 = new System.Windows.Forms.PictureBox();
             this.pictureBox112 = new System.Windows.Forms.PictureBox();
@@ -86,14 +86,14 @@
             this.pictureBox116 = new System.Windows.Forms.PictureBox();
             this.pictureBox117 = new System.Windows.Forms.PictureBox();
             this.pictureBox118 = new System.Windows.Forms.PictureBox();
-            this.pb110 = new System.Windows.Forms.PictureBox();
-            this.pb010 = new System.Windows.Forms.PictureBox();
+            this.pb0110 = new System.Windows.Forms.PictureBox();
+            this.pb0010 = new System.Windows.Forms.PictureBox();
             this.pictureBox121 = new System.Windows.Forms.PictureBox();
             this.pictureBox122 = new System.Windows.Forms.PictureBox();
             this.pictureBox124 = new System.Windows.Forms.PictureBox();
             this.pictureBox126 = new System.Windows.Forms.PictureBox();
             this.pictureBox128 = new System.Windows.Forms.PictureBox();
-            this.pb09 = new System.Windows.Forms.PictureBox();
+            this.pb0009 = new System.Windows.Forms.PictureBox();
             this.pictureBox132 = new System.Windows.Forms.PictureBox();
             this.pictureBox133 = new System.Windows.Forms.PictureBox();
             this.pictureBox134 = new System.Windows.Forms.PictureBox();
@@ -103,14 +103,14 @@
             this.pictureBox138 = new System.Windows.Forms.PictureBox();
             this.pictureBox139 = new System.Windows.Forms.PictureBox();
             this.pictureBox140 = new System.Windows.Forms.PictureBox();
-            this.pb18 = new System.Windows.Forms.PictureBox();
-            this.pb08 = new System.Windows.Forms.PictureBox();
+            this.pb0108 = new System.Windows.Forms.PictureBox();
+            this.pb0008 = new System.Windows.Forms.PictureBox();
             this.pictureBox143 = new System.Windows.Forms.PictureBox();
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
             this.pictureBox18 = new System.Windows.Forms.PictureBox();
             this.pictureBox20 = new System.Windows.Forms.PictureBox();
             this.pictureBox22 = new System.Windows.Forms.PictureBox();
-            this.pb07 = new System.Windows.Forms.PictureBox();
+            this.pb0007 = new System.Windows.Forms.PictureBox();
             this.pictureBox26 = new System.Windows.Forms.PictureBox();
             this.pictureBox60 = new System.Windows.Forms.PictureBox();
             this.pictureBox61 = new System.Windows.Forms.PictureBox();
@@ -120,14 +120,14 @@
             this.pictureBox65 = new System.Windows.Forms.PictureBox();
             this.pictureBox66 = new System.Windows.Forms.PictureBox();
             this.pictureBox67 = new System.Windows.Forms.PictureBox();
-            this.pb16 = new System.Windows.Forms.PictureBox();
-            this.pb06 = new System.Windows.Forms.PictureBox();
+            this.pb0106 = new System.Windows.Forms.PictureBox();
+            this.pb0006 = new System.Windows.Forms.PictureBox();
             this.pictureBox70 = new System.Windows.Forms.PictureBox();
             this.pictureBox71 = new System.Windows.Forms.PictureBox();
             this.pictureBox73 = new System.Windows.Forms.PictureBox();
             this.pictureBox75 = new System.Windows.Forms.PictureBox();
             this.pictureBox77 = new System.Windows.Forms.PictureBox();
-            this.pb05 = new System.Windows.Forms.PictureBox();
+            this.pb0005 = new System.Windows.Forms.PictureBox();
             this.pictureBox81 = new System.Windows.Forms.PictureBox();
             this.pictureBox82 = new System.Windows.Forms.PictureBox();
             this.pictureBox83 = new System.Windows.Forms.PictureBox();
@@ -137,14 +137,14 @@
             this.pictureBox87 = new System.Windows.Forms.PictureBox();
             this.pictureBox88 = new System.Windows.Forms.PictureBox();
             this.pictureBox89 = new System.Windows.Forms.PictureBox();
-            this.pb14 = new System.Windows.Forms.PictureBox();
-            this.pb04 = new System.Windows.Forms.PictureBox();
+            this.pb0104 = new System.Windows.Forms.PictureBox();
+            this.pb0004 = new System.Windows.Forms.PictureBox();
             this.pictureBox92 = new System.Windows.Forms.PictureBox();
             this.pictureBox38 = new System.Windows.Forms.PictureBox();
             this.pictureBox40 = new System.Windows.Forms.PictureBox();
             this.pictureBox42 = new System.Windows.Forms.PictureBox();
             this.pictureBox44 = new System.Windows.Forms.PictureBox();
-            this.pb03 = new System.Windows.Forms.PictureBox();
+            this.pb0003 = new System.Windows.Forms.PictureBox();
             this.pictureBox48 = new System.Windows.Forms.PictureBox();
             this.pictureBox49 = new System.Windows.Forms.PictureBox();
             this.pictureBox50 = new System.Windows.Forms.PictureBox();
@@ -154,14 +154,14 @@
             this.pictureBox54 = new System.Windows.Forms.PictureBox();
             this.pictureBox55 = new System.Windows.Forms.PictureBox();
             this.pictureBox56 = new System.Windows.Forms.PictureBox();
-            this.pb12 = new System.Windows.Forms.PictureBox();
-            this.pb02 = new System.Windows.Forms.PictureBox();
+            this.pb0102 = new System.Windows.Forms.PictureBox();
+            this.pb0002 = new System.Windows.Forms.PictureBox();
             this.pictureBox59 = new System.Windows.Forms.PictureBox();
             this.pictureBox27 = new System.Windows.Forms.PictureBox();
             this.pictureBox29 = new System.Windows.Forms.PictureBox();
             this.pictureBox31 = new System.Windows.Forms.PictureBox();
             this.pictureBox33 = new System.Windows.Forms.PictureBox();
-            this.pb01 = new System.Windows.Forms.PictureBox();
+            this.pb0001 = new System.Windows.Forms.PictureBox();
             this.pictureBox37 = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
@@ -171,8 +171,8 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.pb10 = new System.Windows.Forms.PictureBox();
-            this.pb00 = new System.Windows.Forms.PictureBox();
+            this.pb0100 = new System.Windows.Forms.PictureBox();
+            this.pb0000 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbPlayer1)).BeginInit();
             this.panel1.SuspendLayout();
@@ -200,12 +200,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb111)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0111)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0109)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0107)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0105)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0103)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0101)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -214,14 +214,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb112)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb012)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0112)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0012)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb011)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0011)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
@@ -231,14 +231,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb110)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb010)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0110)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0010)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb09)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0009)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).BeginInit();
@@ -248,14 +248,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox138)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox139)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox140)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb08)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0108)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0008)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox143)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb07)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0007)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).BeginInit();
@@ -265,14 +265,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb06)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0106)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0006)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb05)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0005)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).BeginInit();
@@ -282,14 +282,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb04)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0104)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0004)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox38)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox42)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb03)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0003)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).BeginInit();
@@ -299,14 +299,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb02)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0102)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0002)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb01)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0001)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
@@ -316,8 +316,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb00)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0100)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0000)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
@@ -362,12 +362,12 @@
             this.panel1.Controls.Add(this.pictureBox34);
             this.panel1.Controls.Add(this.pictureBox32);
             this.panel1.Controls.Add(this.pictureBox30);
-            this.panel1.Controls.Add(this.pb111);
-            this.panel1.Controls.Add(this.pb19);
-            this.panel1.Controls.Add(this.pb17);
-            this.panel1.Controls.Add(this.pb15);
-            this.panel1.Controls.Add(this.pb13);
-            this.panel1.Controls.Add(this.pb11);
+            this.panel1.Controls.Add(this.pb0111);
+            this.panel1.Controls.Add(this.pb0109);
+            this.panel1.Controls.Add(this.pb0107);
+            this.panel1.Controls.Add(this.pb0105);
+            this.panel1.Controls.Add(this.pb0103);
+            this.panel1.Controls.Add(this.pb0101);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.pictureBox3);
             this.panel1.Controls.Add(this.pictureBox5);
@@ -376,14 +376,14 @@
             this.panel1.Controls.Add(this.pictureBox94);
             this.panel1.Controls.Add(this.pictureBox95);
             this.panel1.Controls.Add(this.pictureBox96);
-            this.panel1.Controls.Add(this.pb112);
-            this.panel1.Controls.Add(this.pb012);
+            this.panel1.Controls.Add(this.pb0112);
+            this.panel1.Controls.Add(this.pb0012);
             this.panel1.Controls.Add(this.pictureBox99);
             this.panel1.Controls.Add(this.pictureBox100);
             this.panel1.Controls.Add(this.pictureBox102);
             this.panel1.Controls.Add(this.pictureBox104);
             this.panel1.Controls.Add(this.pictureBox106);
-            this.panel1.Controls.Add(this.pb011);
+            this.panel1.Controls.Add(this.pb0011);
             this.panel1.Controls.Add(this.pictureBox110);
             this.panel1.Controls.Add(this.pictureBox111);
             this.panel1.Controls.Add(this.pictureBox112);
@@ -393,14 +393,14 @@
             this.panel1.Controls.Add(this.pictureBox116);
             this.panel1.Controls.Add(this.pictureBox117);
             this.panel1.Controls.Add(this.pictureBox118);
-            this.panel1.Controls.Add(this.pb110);
-            this.panel1.Controls.Add(this.pb010);
+            this.panel1.Controls.Add(this.pb0110);
+            this.panel1.Controls.Add(this.pb0010);
             this.panel1.Controls.Add(this.pictureBox121);
             this.panel1.Controls.Add(this.pictureBox122);
             this.panel1.Controls.Add(this.pictureBox124);
             this.panel1.Controls.Add(this.pictureBox126);
             this.panel1.Controls.Add(this.pictureBox128);
-            this.panel1.Controls.Add(this.pb09);
+            this.panel1.Controls.Add(this.pb0009);
             this.panel1.Controls.Add(this.pictureBox132);
             this.panel1.Controls.Add(this.pictureBox133);
             this.panel1.Controls.Add(this.pictureBox134);
@@ -410,14 +410,14 @@
             this.panel1.Controls.Add(this.pictureBox138);
             this.panel1.Controls.Add(this.pictureBox139);
             this.panel1.Controls.Add(this.pictureBox140);
-            this.panel1.Controls.Add(this.pb18);
-            this.panel1.Controls.Add(this.pb08);
+            this.panel1.Controls.Add(this.pb0108);
+            this.panel1.Controls.Add(this.pb0008);
             this.panel1.Controls.Add(this.pictureBox143);
             this.panel1.Controls.Add(this.pictureBox16);
             this.panel1.Controls.Add(this.pictureBox18);
             this.panel1.Controls.Add(this.pictureBox20);
             this.panel1.Controls.Add(this.pictureBox22);
-            this.panel1.Controls.Add(this.pb07);
+            this.panel1.Controls.Add(this.pb0007);
             this.panel1.Controls.Add(this.pictureBox26);
             this.panel1.Controls.Add(this.pictureBox60);
             this.panel1.Controls.Add(this.pictureBox61);
@@ -427,14 +427,14 @@
             this.panel1.Controls.Add(this.pictureBox65);
             this.panel1.Controls.Add(this.pictureBox66);
             this.panel1.Controls.Add(this.pictureBox67);
-            this.panel1.Controls.Add(this.pb16);
-            this.panel1.Controls.Add(this.pb06);
+            this.panel1.Controls.Add(this.pb0106);
+            this.panel1.Controls.Add(this.pb0006);
             this.panel1.Controls.Add(this.pictureBox70);
             this.panel1.Controls.Add(this.pictureBox71);
             this.panel1.Controls.Add(this.pictureBox73);
             this.panel1.Controls.Add(this.pictureBox75);
             this.panel1.Controls.Add(this.pictureBox77);
-            this.panel1.Controls.Add(this.pb05);
+            this.panel1.Controls.Add(this.pb0005);
             this.panel1.Controls.Add(this.pictureBox81);
             this.panel1.Controls.Add(this.pictureBox82);
             this.panel1.Controls.Add(this.pictureBox83);
@@ -444,14 +444,14 @@
             this.panel1.Controls.Add(this.pictureBox87);
             this.panel1.Controls.Add(this.pictureBox88);
             this.panel1.Controls.Add(this.pictureBox89);
-            this.panel1.Controls.Add(this.pb14);
-            this.panel1.Controls.Add(this.pb04);
+            this.panel1.Controls.Add(this.pb0104);
+            this.panel1.Controls.Add(this.pb0004);
             this.panel1.Controls.Add(this.pictureBox92);
             this.panel1.Controls.Add(this.pictureBox38);
             this.panel1.Controls.Add(this.pictureBox40);
             this.panel1.Controls.Add(this.pictureBox42);
             this.panel1.Controls.Add(this.pictureBox44);
-            this.panel1.Controls.Add(this.pb03);
+            this.panel1.Controls.Add(this.pb0003);
             this.panel1.Controls.Add(this.pictureBox48);
             this.panel1.Controls.Add(this.pictureBox49);
             this.panel1.Controls.Add(this.pictureBox50);
@@ -461,14 +461,14 @@
             this.panel1.Controls.Add(this.pictureBox54);
             this.panel1.Controls.Add(this.pictureBox55);
             this.panel1.Controls.Add(this.pictureBox56);
-            this.panel1.Controls.Add(this.pb12);
-            this.panel1.Controls.Add(this.pb02);
+            this.panel1.Controls.Add(this.pb0102);
+            this.panel1.Controls.Add(this.pb0002);
             this.panel1.Controls.Add(this.pictureBox59);
             this.panel1.Controls.Add(this.pictureBox27);
             this.panel1.Controls.Add(this.pictureBox29);
             this.panel1.Controls.Add(this.pictureBox31);
             this.panel1.Controls.Add(this.pictureBox33);
-            this.panel1.Controls.Add(this.pb01);
+            this.panel1.Controls.Add(this.pb0001);
             this.panel1.Controls.Add(this.pictureBox37);
             this.panel1.Controls.Add(this.pictureBox12);
             this.panel1.Controls.Add(this.pictureBox13);
@@ -478,8 +478,8 @@
             this.panel1.Controls.Add(this.pictureBox9);
             this.panel1.Controls.Add(this.pictureBox10);
             this.panel1.Controls.Add(this.pictureBox11);
-            this.panel1.Controls.Add(this.pb10);
-            this.panel1.Controls.Add(this.pb00);
+            this.panel1.Controls.Add(this.pb0100);
+            this.panel1.Controls.Add(this.pb0000);
             this.panel1.Controls.Add(this.pictureBox2);
             this.panel1.Location = new System.Drawing.Point(245, 0);
             this.panel1.Name = "panel1";
@@ -726,65 +726,65 @@
             this.pictureBox30.TabStop = false;
             this.pictureBox30.Tag = "0@0";
             // 
-            // pb111
+            // pb0111
             // 
-            this.pb111.BackColor = System.Drawing.Color.Transparent;
-            this.pb111.Location = new System.Drawing.Point(768, 128);
-            this.pb111.Name = "pb111";
-            this.pb111.Size = new System.Drawing.Size(64, 64);
-            this.pb111.TabIndex = 163;
-            this.pb111.TabStop = false;
-            this.pb111.Tag = "1@11";
+            this.pb0111.BackColor = System.Drawing.Color.Transparent;
+            this.pb0111.Location = new System.Drawing.Point(768, 128);
+            this.pb0111.Name = "pb0111";
+            this.pb0111.Size = new System.Drawing.Size(64, 64);
+            this.pb0111.TabIndex = 163;
+            this.pb0111.TabStop = false;
+            this.pb0111.Tag = "1@11";
             // 
-            // pb19
+            // pb0109
             // 
-            this.pb19.BackColor = System.Drawing.Color.Transparent;
-            this.pb19.Location = new System.Drawing.Point(640, 128);
-            this.pb19.Name = "pb19";
-            this.pb19.Size = new System.Drawing.Size(64, 64);
-            this.pb19.TabIndex = 162;
-            this.pb19.TabStop = false;
-            this.pb19.Tag = "1@9";
+            this.pb0109.BackColor = System.Drawing.Color.Transparent;
+            this.pb0109.Location = new System.Drawing.Point(640, 128);
+            this.pb0109.Name = "pb0109";
+            this.pb0109.Size = new System.Drawing.Size(64, 64);
+            this.pb0109.TabIndex = 162;
+            this.pb0109.TabStop = false;
+            this.pb0109.Tag = "1@9";
             // 
-            // pb17
+            // pb0107
             // 
-            this.pb17.BackColor = System.Drawing.Color.Transparent;
-            this.pb17.Location = new System.Drawing.Point(512, 128);
-            this.pb17.Name = "pb17";
-            this.pb17.Size = new System.Drawing.Size(64, 64);
-            this.pb17.TabIndex = 161;
-            this.pb17.TabStop = false;
-            this.pb17.Tag = "1@7";
+            this.pb0107.BackColor = System.Drawing.Color.Transparent;
+            this.pb0107.Location = new System.Drawing.Point(512, 128);
+            this.pb0107.Name = "pb0107";
+            this.pb0107.Size = new System.Drawing.Size(64, 64);
+            this.pb0107.TabIndex = 161;
+            this.pb0107.TabStop = false;
+            this.pb0107.Tag = "1@7";
             // 
-            // pb15
+            // pb0105
             // 
-            this.pb15.BackColor = System.Drawing.Color.Transparent;
-            this.pb15.Location = new System.Drawing.Point(384, 128);
-            this.pb15.Name = "pb15";
-            this.pb15.Size = new System.Drawing.Size(64, 64);
-            this.pb15.TabIndex = 160;
-            this.pb15.TabStop = false;
-            this.pb15.Tag = "1@5";
+            this.pb0105.BackColor = System.Drawing.Color.Transparent;
+            this.pb0105.Location = new System.Drawing.Point(384, 128);
+            this.pb0105.Name = "pb0105";
+            this.pb0105.Size = new System.Drawing.Size(64, 64);
+            this.pb0105.TabIndex = 160;
+            this.pb0105.TabStop = false;
+            this.pb0105.Tag = "1@5";
             // 
-            // pb13
+            // pb0103
             // 
-            this.pb13.BackColor = System.Drawing.Color.Transparent;
-            this.pb13.Location = new System.Drawing.Point(256, 128);
-            this.pb13.Name = "pb13";
-            this.pb13.Size = new System.Drawing.Size(64, 64);
-            this.pb13.TabIndex = 159;
-            this.pb13.TabStop = false;
-            this.pb13.Tag = "1@3";
+            this.pb0103.BackColor = System.Drawing.Color.Transparent;
+            this.pb0103.Location = new System.Drawing.Point(256, 128);
+            this.pb0103.Name = "pb0103";
+            this.pb0103.Size = new System.Drawing.Size(64, 64);
+            this.pb0103.TabIndex = 159;
+            this.pb0103.TabStop = false;
+            this.pb0103.Tag = "1@3";
             // 
-            // pb11
+            // pb0101
             // 
-            this.pb11.BackColor = System.Drawing.Color.Transparent;
-            this.pb11.Location = new System.Drawing.Point(128, 128);
-            this.pb11.Name = "pb11";
-            this.pb11.Size = new System.Drawing.Size(64, 64);
-            this.pb11.TabIndex = 158;
-            this.pb11.TabStop = false;
-            this.pb11.Tag = "1@1";
+            this.pb0101.BackColor = System.Drawing.Color.Transparent;
+            this.pb0101.Location = new System.Drawing.Point(128, 128);
+            this.pb0101.Name = "pb0101";
+            this.pb0101.Size = new System.Drawing.Size(64, 64);
+            this.pb0101.TabIndex = 158;
+            this.pb0101.TabStop = false;
+            this.pb0101.Tag = "1@1";
             // 
             // pictureBox1
             // 
@@ -871,25 +871,25 @@
             this.pictureBox96.TabStop = false;
             this.pictureBox96.Tag = "0@0";
             // 
-            // pb112
+            // pb0112
             // 
-            this.pb112.BackColor = System.Drawing.Color.Transparent;
-            this.pb112.Location = new System.Drawing.Point(832, 128);
-            this.pb112.Name = "pb112";
-            this.pb112.Size = new System.Drawing.Size(64, 64);
-            this.pb112.TabIndex = 149;
-            this.pb112.TabStop = false;
-            this.pb112.Tag = "1@12";
+            this.pb0112.BackColor = System.Drawing.Color.Transparent;
+            this.pb0112.Location = new System.Drawing.Point(832, 128);
+            this.pb0112.Name = "pb0112";
+            this.pb0112.Size = new System.Drawing.Size(64, 64);
+            this.pb0112.TabIndex = 149;
+            this.pb0112.TabStop = false;
+            this.pb0112.Tag = "1@12";
             // 
-            // pb012
+            // pb0012
             // 
-            this.pb012.BackColor = System.Drawing.Color.Transparent;
-            this.pb012.Location = new System.Drawing.Point(832, 64);
-            this.pb012.Name = "pb012";
-            this.pb012.Size = new System.Drawing.Size(64, 64);
-            this.pb012.TabIndex = 148;
-            this.pb012.TabStop = false;
-            this.pb012.Tag = "0@12";
+            this.pb0012.BackColor = System.Drawing.Color.Transparent;
+            this.pb0012.Location = new System.Drawing.Point(832, 64);
+            this.pb0012.Name = "pb0012";
+            this.pb0012.Size = new System.Drawing.Size(64, 64);
+            this.pb0012.TabIndex = 148;
+            this.pb0012.TabStop = false;
+            this.pb0012.Tag = "0@12";
             // 
             // pictureBox99
             // 
@@ -945,15 +945,15 @@
             this.pictureBox106.TabStop = false;
             this.pictureBox106.Tag = "0@0";
             // 
-            // pb011
+            // pb0011
             // 
-            this.pb011.BackColor = System.Drawing.Color.Transparent;
-            this.pb011.Location = new System.Drawing.Point(768, 64);
-            this.pb011.Name = "pb011";
-            this.pb011.Size = new System.Drawing.Size(64, 64);
-            this.pb011.TabIndex = 137;
-            this.pb011.TabStop = false;
-            this.pb011.Tag = "0@11";
+            this.pb0011.BackColor = System.Drawing.Color.Transparent;
+            this.pb0011.Location = new System.Drawing.Point(768, 64);
+            this.pb0011.Name = "pb0011";
+            this.pb0011.Size = new System.Drawing.Size(64, 64);
+            this.pb0011.TabIndex = 137;
+            this.pb0011.TabStop = false;
+            this.pb0011.Tag = "0@11";
             // 
             // pictureBox110
             // 
@@ -1053,26 +1053,26 @@
             this.pictureBox118.TabStop = false;
             this.pictureBox118.Tag = "0@0";
             // 
-            // pb110
+            // pb0110
             // 
-            this.pb110.BackColor = System.Drawing.Color.Transparent;
-            this.pb110.Image = ((System.Drawing.Image)(resources.GetObject("pb110.Image")));
-            this.pb110.Location = new System.Drawing.Point(704, 128);
-            this.pb110.Name = "pb110";
-            this.pb110.Size = new System.Drawing.Size(64, 64);
-            this.pb110.TabIndex = 127;
-            this.pb110.TabStop = false;
-            this.pb110.Tag = "1@10";
+            this.pb0110.BackColor = System.Drawing.Color.Transparent;
+            this.pb0110.Image = ((System.Drawing.Image)(resources.GetObject("pb0110.Image")));
+            this.pb0110.Location = new System.Drawing.Point(704, 128);
+            this.pb0110.Name = "pb0110";
+            this.pb0110.Size = new System.Drawing.Size(64, 64);
+            this.pb0110.TabIndex = 127;
+            this.pb0110.TabStop = false;
+            this.pb0110.Tag = "1@10";
             // 
-            // pb010
+            // pb0010
             // 
-            this.pb010.BackColor = System.Drawing.Color.Transparent;
-            this.pb010.Location = new System.Drawing.Point(704, 64);
-            this.pb010.Name = "pb010";
-            this.pb010.Size = new System.Drawing.Size(64, 64);
-            this.pb010.TabIndex = 126;
-            this.pb010.TabStop = false;
-            this.pb010.Tag = "0@10";
+            this.pb0010.BackColor = System.Drawing.Color.Transparent;
+            this.pb0010.Location = new System.Drawing.Point(704, 64);
+            this.pb0010.Name = "pb0010";
+            this.pb0010.Size = new System.Drawing.Size(64, 64);
+            this.pb0010.TabIndex = 126;
+            this.pb0010.TabStop = false;
+            this.pb0010.Tag = "0@10";
             // 
             // pictureBox121
             // 
@@ -1128,16 +1128,16 @@
             this.pictureBox128.TabStop = false;
             this.pictureBox128.Tag = "0@0";
             // 
-            // pb09
+            // pb0009
             // 
-            this.pb09.BackColor = System.Drawing.Color.Transparent;
-            this.pb09.Image = ((System.Drawing.Image)(resources.GetObject("pb09.Image")));
-            this.pb09.Location = new System.Drawing.Point(640, 64);
-            this.pb09.Name = "pb09";
-            this.pb09.Size = new System.Drawing.Size(64, 64);
-            this.pb09.TabIndex = 115;
-            this.pb09.TabStop = false;
-            this.pb09.Tag = "0@9";
+            this.pb0009.BackColor = System.Drawing.Color.Transparent;
+            this.pb0009.Image = ((System.Drawing.Image)(resources.GetObject("pb0009.Image")));
+            this.pb0009.Location = new System.Drawing.Point(640, 64);
+            this.pb0009.Name = "pb0009";
+            this.pb0009.Size = new System.Drawing.Size(64, 64);
+            this.pb0009.TabIndex = 115;
+            this.pb0009.TabStop = false;
+            this.pb0009.Tag = "0@9";
             // 
             // pictureBox132
             // 
@@ -1238,27 +1238,27 @@
             this.pictureBox140.TabStop = false;
             this.pictureBox140.Tag = "0@0";
             // 
-            // pb18
+            // pb0108
             // 
-            this.pb18.BackColor = System.Drawing.Color.Transparent;
-            this.pb18.Image = ((System.Drawing.Image)(resources.GetObject("pb18.Image")));
-            this.pb18.Location = new System.Drawing.Point(576, 128);
-            this.pb18.Name = "pb18";
-            this.pb18.Size = new System.Drawing.Size(64, 64);
-            this.pb18.TabIndex = 105;
-            this.pb18.TabStop = false;
-            this.pb18.Tag = "1@8";
+            this.pb0108.BackColor = System.Drawing.Color.Transparent;
+            this.pb0108.Image = ((System.Drawing.Image)(resources.GetObject("pb0108.Image")));
+            this.pb0108.Location = new System.Drawing.Point(576, 128);
+            this.pb0108.Name = "pb0108";
+            this.pb0108.Size = new System.Drawing.Size(64, 64);
+            this.pb0108.TabIndex = 105;
+            this.pb0108.TabStop = false;
+            this.pb0108.Tag = "1@8";
             // 
-            // pb08
+            // pb0008
             // 
-            this.pb08.BackColor = System.Drawing.Color.Transparent;
-            this.pb08.Image = ((System.Drawing.Image)(resources.GetObject("pb08.Image")));
-            this.pb08.Location = new System.Drawing.Point(576, 64);
-            this.pb08.Name = "pb08";
-            this.pb08.Size = new System.Drawing.Size(64, 64);
-            this.pb08.TabIndex = 104;
-            this.pb08.TabStop = false;
-            this.pb08.Tag = "0@8";
+            this.pb0008.BackColor = System.Drawing.Color.Transparent;
+            this.pb0008.Image = ((System.Drawing.Image)(resources.GetObject("pb0008.Image")));
+            this.pb0008.Location = new System.Drawing.Point(576, 64);
+            this.pb0008.Name = "pb0008";
+            this.pb0008.Size = new System.Drawing.Size(64, 64);
+            this.pb0008.TabIndex = 104;
+            this.pb0008.TabStop = false;
+            this.pb0008.Tag = "0@8";
             // 
             // pictureBox143
             // 
@@ -1315,16 +1315,16 @@
             this.pictureBox22.TabStop = false;
             this.pictureBox22.Tag = "0@0";
             // 
-            // pb07
+            // pb0007
             // 
-            this.pb07.BackColor = System.Drawing.Color.Transparent;
-            this.pb07.Image = ((System.Drawing.Image)(resources.GetObject("pb07.Image")));
-            this.pb07.Location = new System.Drawing.Point(512, 64);
-            this.pb07.Name = "pb07";
-            this.pb07.Size = new System.Drawing.Size(64, 64);
-            this.pb07.TabIndex = 93;
-            this.pb07.TabStop = false;
-            this.pb07.Tag = "0@7";
+            this.pb0007.BackColor = System.Drawing.Color.Transparent;
+            this.pb0007.Image = ((System.Drawing.Image)(resources.GetObject("pb0007.Image")));
+            this.pb0007.Location = new System.Drawing.Point(512, 64);
+            this.pb0007.Name = "pb0007";
+            this.pb0007.Size = new System.Drawing.Size(64, 64);
+            this.pb0007.TabIndex = 93;
+            this.pb0007.TabStop = false;
+            this.pb0007.Tag = "0@7";
             // 
             // pictureBox26
             // 
@@ -1425,27 +1425,27 @@
             this.pictureBox67.TabStop = false;
             this.pictureBox67.Tag = "0@0";
             // 
-            // pb16
+            // pb0106
             // 
-            this.pb16.BackColor = System.Drawing.Color.Transparent;
-            this.pb16.Image = ((System.Drawing.Image)(resources.GetObject("pb16.Image")));
-            this.pb16.Location = new System.Drawing.Point(448, 128);
-            this.pb16.Name = "pb16";
-            this.pb16.Size = new System.Drawing.Size(64, 64);
-            this.pb16.TabIndex = 83;
-            this.pb16.TabStop = false;
-            this.pb16.Tag = "1@6";
+            this.pb0106.BackColor = System.Drawing.Color.Transparent;
+            this.pb0106.Image = ((System.Drawing.Image)(resources.GetObject("pb0106.Image")));
+            this.pb0106.Location = new System.Drawing.Point(448, 128);
+            this.pb0106.Name = "pb0106";
+            this.pb0106.Size = new System.Drawing.Size(64, 64);
+            this.pb0106.TabIndex = 83;
+            this.pb0106.TabStop = false;
+            this.pb0106.Tag = "1@6";
             // 
-            // pb06
+            // pb0006
             // 
-            this.pb06.BackColor = System.Drawing.Color.Transparent;
-            this.pb06.Image = ((System.Drawing.Image)(resources.GetObject("pb06.Image")));
-            this.pb06.Location = new System.Drawing.Point(448, 64);
-            this.pb06.Name = "pb06";
-            this.pb06.Size = new System.Drawing.Size(64, 64);
-            this.pb06.TabIndex = 82;
-            this.pb06.TabStop = false;
-            this.pb06.Tag = "0@6";
+            this.pb0006.BackColor = System.Drawing.Color.Transparent;
+            this.pb0006.Image = ((System.Drawing.Image)(resources.GetObject("pb0006.Image")));
+            this.pb0006.Location = new System.Drawing.Point(448, 64);
+            this.pb0006.Name = "pb0006";
+            this.pb0006.Size = new System.Drawing.Size(64, 64);
+            this.pb0006.TabIndex = 82;
+            this.pb0006.TabStop = false;
+            this.pb0006.Tag = "0@6";
             // 
             // pictureBox70
             // 
@@ -1502,16 +1502,16 @@
             this.pictureBox77.TabStop = false;
             this.pictureBox77.Tag = "0@0";
             // 
-            // pb05
+            // pb0005
             // 
-            this.pb05.BackColor = System.Drawing.Color.Transparent;
-            this.pb05.Image = ((System.Drawing.Image)(resources.GetObject("pb05.Image")));
-            this.pb05.Location = new System.Drawing.Point(384, 64);
-            this.pb05.Name = "pb05";
-            this.pb05.Size = new System.Drawing.Size(64, 64);
-            this.pb05.TabIndex = 71;
-            this.pb05.TabStop = false;
-            this.pb05.Tag = "0@5";
+            this.pb0005.BackColor = System.Drawing.Color.Transparent;
+            this.pb0005.Image = ((System.Drawing.Image)(resources.GetObject("pb0005.Image")));
+            this.pb0005.Location = new System.Drawing.Point(384, 64);
+            this.pb0005.Name = "pb0005";
+            this.pb0005.Size = new System.Drawing.Size(64, 64);
+            this.pb0005.TabIndex = 71;
+            this.pb0005.TabStop = false;
+            this.pb0005.Tag = "0@5";
             // 
             // pictureBox81
             // 
@@ -1612,27 +1612,27 @@
             this.pictureBox89.TabStop = false;
             this.pictureBox89.Tag = "0@0";
             // 
-            // pb14
+            // pb0104
             // 
-            this.pb14.BackColor = System.Drawing.Color.Transparent;
-            this.pb14.Image = ((System.Drawing.Image)(resources.GetObject("pb14.Image")));
-            this.pb14.Location = new System.Drawing.Point(320, 128);
-            this.pb14.Name = "pb14";
-            this.pb14.Size = new System.Drawing.Size(64, 64);
-            this.pb14.TabIndex = 61;
-            this.pb14.TabStop = false;
-            this.pb14.Tag = "1@4";
+            this.pb0104.BackColor = System.Drawing.Color.Transparent;
+            this.pb0104.Image = ((System.Drawing.Image)(resources.GetObject("pb0104.Image")));
+            this.pb0104.Location = new System.Drawing.Point(320, 128);
+            this.pb0104.Name = "pb0104";
+            this.pb0104.Size = new System.Drawing.Size(64, 64);
+            this.pb0104.TabIndex = 61;
+            this.pb0104.TabStop = false;
+            this.pb0104.Tag = "1@4";
             // 
-            // pb04
+            // pb0004
             // 
-            this.pb04.BackColor = System.Drawing.Color.Transparent;
-            this.pb04.Image = ((System.Drawing.Image)(resources.GetObject("pb04.Image")));
-            this.pb04.Location = new System.Drawing.Point(320, 64);
-            this.pb04.Name = "pb04";
-            this.pb04.Size = new System.Drawing.Size(64, 64);
-            this.pb04.TabIndex = 60;
-            this.pb04.TabStop = false;
-            this.pb04.Tag = "0@4";
+            this.pb0004.BackColor = System.Drawing.Color.Transparent;
+            this.pb0004.Image = ((System.Drawing.Image)(resources.GetObject("pb0004.Image")));
+            this.pb0004.Location = new System.Drawing.Point(320, 64);
+            this.pb0004.Name = "pb0004";
+            this.pb0004.Size = new System.Drawing.Size(64, 64);
+            this.pb0004.TabIndex = 60;
+            this.pb0004.TabStop = false;
+            this.pb0004.Tag = "0@4";
             // 
             // pictureBox92
             // 
@@ -1689,16 +1689,16 @@
             this.pictureBox44.TabStop = false;
             this.pictureBox44.Tag = "0@0";
             // 
-            // pb03
+            // pb0003
             // 
-            this.pb03.BackColor = System.Drawing.Color.Transparent;
-            this.pb03.Image = ((System.Drawing.Image)(resources.GetObject("pb03.Image")));
-            this.pb03.Location = new System.Drawing.Point(256, 64);
-            this.pb03.Name = "pb03";
-            this.pb03.Size = new System.Drawing.Size(64, 64);
-            this.pb03.TabIndex = 49;
-            this.pb03.TabStop = false;
-            this.pb03.Tag = "0@3";
+            this.pb0003.BackColor = System.Drawing.Color.Transparent;
+            this.pb0003.Image = ((System.Drawing.Image)(resources.GetObject("pb0003.Image")));
+            this.pb0003.Location = new System.Drawing.Point(256, 64);
+            this.pb0003.Name = "pb0003";
+            this.pb0003.Size = new System.Drawing.Size(64, 64);
+            this.pb0003.TabIndex = 49;
+            this.pb0003.TabStop = false;
+            this.pb0003.Tag = "0@3";
             // 
             // pictureBox48
             // 
@@ -1799,26 +1799,26 @@
             this.pictureBox56.TabStop = false;
             this.pictureBox56.Tag = "0@0";
             // 
-            // pb12
+            // pb0102
             // 
-            this.pb12.BackColor = System.Drawing.Color.Transparent;
-            this.pb12.Image = ((System.Drawing.Image)(resources.GetObject("pb12.Image")));
-            this.pb12.Location = new System.Drawing.Point(192, 128);
-            this.pb12.Name = "pb12";
-            this.pb12.Size = new System.Drawing.Size(64, 64);
-            this.pb12.TabIndex = 39;
-            this.pb12.TabStop = false;
-            this.pb12.Tag = "1@2";
+            this.pb0102.BackColor = System.Drawing.Color.Transparent;
+            this.pb0102.Image = ((System.Drawing.Image)(resources.GetObject("pb0102.Image")));
+            this.pb0102.Location = new System.Drawing.Point(192, 128);
+            this.pb0102.Name = "pb0102";
+            this.pb0102.Size = new System.Drawing.Size(64, 64);
+            this.pb0102.TabIndex = 39;
+            this.pb0102.TabStop = false;
+            this.pb0102.Tag = "1@2";
             // 
-            // pb02
+            // pb0002
             // 
-            this.pb02.BackColor = System.Drawing.Color.Transparent;
-            this.pb02.Location = new System.Drawing.Point(192, 64);
-            this.pb02.Name = "pb02";
-            this.pb02.Size = new System.Drawing.Size(64, 64);
-            this.pb02.TabIndex = 38;
-            this.pb02.TabStop = false;
-            this.pb02.Tag = "0@2";
+            this.pb0002.BackColor = System.Drawing.Color.Transparent;
+            this.pb0002.Location = new System.Drawing.Point(192, 64);
+            this.pb0002.Name = "pb0002";
+            this.pb0002.Size = new System.Drawing.Size(64, 64);
+            this.pb0002.TabIndex = 38;
+            this.pb0002.TabStop = false;
+            this.pb0002.Tag = "0@2";
             // 
             // pictureBox59
             // 
@@ -1874,15 +1874,15 @@
             this.pictureBox33.TabStop = false;
             this.pictureBox33.Tag = "0@0";
             // 
-            // pb01
+            // pb0001
             // 
-            this.pb01.BackColor = System.Drawing.Color.Transparent;
-            this.pb01.Location = new System.Drawing.Point(128, 64);
-            this.pb01.Name = "pb01";
-            this.pb01.Size = new System.Drawing.Size(64, 64);
-            this.pb01.TabIndex = 27;
-            this.pb01.TabStop = false;
-            this.pb01.Tag = "0@1";
+            this.pb0001.BackColor = System.Drawing.Color.Transparent;
+            this.pb0001.Location = new System.Drawing.Point(128, 64);
+            this.pb0001.Name = "pb0001";
+            this.pb0001.Size = new System.Drawing.Size(64, 64);
+            this.pb0001.TabIndex = 27;
+            this.pb0001.TabStop = false;
+            this.pb0001.Tag = "0@1";
             // 
             // pictureBox37
             // 
@@ -1979,25 +1979,25 @@
             this.pictureBox11.TabStop = false;
             this.pictureBox11.Tag = "3";
             // 
-            // pb10
+            // pb0100
             // 
-            this.pb10.BackColor = System.Drawing.Color.Transparent;
-            this.pb10.Location = new System.Drawing.Point(64, 128);
-            this.pb10.Name = "pb10";
-            this.pb10.Size = new System.Drawing.Size(64, 64);
-            this.pb10.TabIndex = 5;
-            this.pb10.TabStop = false;
-            this.pb10.Tag = "1@0";
+            this.pb0100.BackColor = System.Drawing.Color.Transparent;
+            this.pb0100.Location = new System.Drawing.Point(64, 128);
+            this.pb0100.Name = "pb0100";
+            this.pb0100.Size = new System.Drawing.Size(64, 64);
+            this.pb0100.TabIndex = 5;
+            this.pb0100.TabStop = false;
+            this.pb0100.Tag = "1@0";
             // 
-            // pb00
+            // pb0000
             // 
-            this.pb00.BackColor = System.Drawing.Color.Transparent;
-            this.pb00.Location = new System.Drawing.Point(64, 64);
-            this.pb00.Name = "pb00";
-            this.pb00.Size = new System.Drawing.Size(64, 64);
-            this.pb00.TabIndex = 3;
-            this.pb00.TabStop = false;
-            this.pb00.Tag = "0@0";
+            this.pb0000.BackColor = System.Drawing.Color.Transparent;
+            this.pb0000.Location = new System.Drawing.Point(64, 64);
+            this.pb0000.Name = "pb0000";
+            this.pb0000.Size = new System.Drawing.Size(64, 64);
+            this.pb0000.TabIndex = 3;
+            this.pb0000.TabStop = false;
+            this.pb0000.Tag = "0@0";
             // 
             // pictureBox2
             // 
@@ -2046,12 +2046,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb111)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0111)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0109)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0107)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0105)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0103)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0101)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
@@ -2060,14 +2060,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb112)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb012)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0112)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0012)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb011)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0011)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
@@ -2077,14 +2077,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb110)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb010)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0110)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0010)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb09)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0009)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).EndInit();
@@ -2094,14 +2094,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox138)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox139)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox140)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb08)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0108)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0008)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox143)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb07)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0007)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).EndInit();
@@ -2111,14 +2111,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb06)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0106)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0006)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb05)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0005)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).EndInit();
@@ -2128,14 +2128,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb04)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0104)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0004)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox38)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox42)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb03)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0003)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).EndInit();
@@ -2145,14 +2145,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb02)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0102)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0002)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb01)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0001)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
@@ -2162,8 +2162,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pb00)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0100)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb0000)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
 
@@ -2196,12 +2196,12 @@
         private System.Windows.Forms.PictureBox pictureBox34;
         private System.Windows.Forms.PictureBox pictureBox32;
         private System.Windows.Forms.PictureBox pictureBox30;
-        private System.Windows.Forms.PictureBox pb111;
-        private System.Windows.Forms.PictureBox pb19;
-        private System.Windows.Forms.PictureBox pb17;
-        private System.Windows.Forms.PictureBox pb15;
-        private System.Windows.Forms.PictureBox pb13;
-        private System.Windows.Forms.PictureBox pb11;
+        private System.Windows.Forms.PictureBox pb0111;
+        private System.Windows.Forms.PictureBox pb0109;
+        private System.Windows.Forms.PictureBox pb0107;
+        private System.Windows.Forms.PictureBox pb0105;
+        private System.Windows.Forms.PictureBox pb0103;
+        private System.Windows.Forms.PictureBox pb0101;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox5;
@@ -2210,14 +2210,14 @@
         private System.Windows.Forms.PictureBox pictureBox94;
         private System.Windows.Forms.PictureBox pictureBox95;
         private System.Windows.Forms.PictureBox pictureBox96;
-        private System.Windows.Forms.PictureBox pb112;
-        private System.Windows.Forms.PictureBox pb012;
+        private System.Windows.Forms.PictureBox pb0112;
+        private System.Windows.Forms.PictureBox pb0012;
         private System.Windows.Forms.PictureBox pictureBox99;
         private System.Windows.Forms.PictureBox pictureBox100;
         private System.Windows.Forms.PictureBox pictureBox102;
         private System.Windows.Forms.PictureBox pictureBox104;
         private System.Windows.Forms.PictureBox pictureBox106;
-        private System.Windows.Forms.PictureBox pb011;
+        private System.Windows.Forms.PictureBox pb0011;
         private System.Windows.Forms.PictureBox pictureBox110;
         private System.Windows.Forms.PictureBox pictureBox111;
         private System.Windows.Forms.PictureBox pictureBox112;
@@ -2227,14 +2227,14 @@
         private System.Windows.Forms.PictureBox pictureBox116;
         private System.Windows.Forms.PictureBox pictureBox117;
         private System.Windows.Forms.PictureBox pictureBox118;
-        private System.Windows.Forms.PictureBox pb110;
-        private System.Windows.Forms.PictureBox pb010;
+        private System.Windows.Forms.PictureBox pb0110;
+        private System.Windows.Forms.PictureBox pb0010;
         private System.Windows.Forms.PictureBox pictureBox121;
         private System.Windows.Forms.PictureBox pictureBox122;
         private System.Windows.Forms.PictureBox pictureBox124;
         private System.Windows.Forms.PictureBox pictureBox126;
         private System.Windows.Forms.PictureBox pictureBox128;
-        private System.Windows.Forms.PictureBox pb09;
+        private System.Windows.Forms.PictureBox pb0009;
         private System.Windows.Forms.PictureBox pictureBox132;
         private System.Windows.Forms.PictureBox pictureBox133;
         private System.Windows.Forms.PictureBox pictureBox134;
@@ -2244,14 +2244,14 @@
         private System.Windows.Forms.PictureBox pictureBox138;
         private System.Windows.Forms.PictureBox pictureBox139;
         private System.Windows.Forms.PictureBox pictureBox140;
-        private System.Windows.Forms.PictureBox pb18;
-        private System.Windows.Forms.PictureBox pb08;
+        private System.Windows.Forms.PictureBox pb0108;
+        private System.Windows.Forms.PictureBox pb0008;
         private System.Windows.Forms.PictureBox pictureBox143;
         private System.Windows.Forms.PictureBox pictureBox16;
         private System.Windows.Forms.PictureBox pictureBox18;
         private System.Windows.Forms.PictureBox pictureBox20;
         private System.Windows.Forms.PictureBox pictureBox22;
-        private System.Windows.Forms.PictureBox pb07;
+        private System.Windows.Forms.PictureBox pb0007;
         private System.Windows.Forms.PictureBox pictureBox26;
         private System.Windows.Forms.PictureBox pictureBox60;
         private System.Windows.Forms.PictureBox pictureBox61;
@@ -2261,14 +2261,14 @@
         private System.Windows.Forms.PictureBox pictureBox65;
         private System.Windows.Forms.PictureBox pictureBox66;
         private System.Windows.Forms.PictureBox pictureBox67;
-        private System.Windows.Forms.PictureBox pb16;
-        private System.Windows.Forms.PictureBox pb06;
+        private System.Windows.Forms.PictureBox pb0106;
+        private System.Windows.Forms.PictureBox pb0006;
         private System.Windows.Forms.PictureBox pictureBox70;
         private System.Windows.Forms.PictureBox pictureBox71;
         private System.Windows.Forms.PictureBox pictureBox73;
         private System.Windows.Forms.PictureBox pictureBox75;
         private System.Windows.Forms.PictureBox pictureBox77;
-        private System.Windows.Forms.PictureBox pb05;
+        private System.Windows.Forms.PictureBox pb0005;
         private System.Windows.Forms.PictureBox pictureBox81;
         private System.Windows.Forms.PictureBox pictureBox82;
         private System.Windows.Forms.PictureBox pictureBox83;
@@ -2278,14 +2278,14 @@
         private System.Windows.Forms.PictureBox pictureBox87;
         private System.Windows.Forms.PictureBox pictureBox88;
         private System.Windows.Forms.PictureBox pictureBox89;
-        private System.Windows.Forms.PictureBox pb14;
-        private System.Windows.Forms.PictureBox pb04;
+        private System.Windows.Forms.PictureBox pb0104;
+        private System.Windows.Forms.PictureBox pb0004;
         private System.Windows.Forms.PictureBox pictureBox92;
         private System.Windows.Forms.PictureBox pictureBox38;
         private System.Windows.Forms.PictureBox pictureBox40;
         private System.Windows.Forms.PictureBox pictureBox42;
         private System.Windows.Forms.PictureBox pictureBox44;
-        private System.Windows.Forms.PictureBox pb03;
+        private System.Windows.Forms.PictureBox pb0003;
         private System.Windows.Forms.PictureBox pictureBox48;
         private System.Windows.Forms.PictureBox pictureBox49;
         private System.Windows.Forms.PictureBox pictureBox50;
@@ -2295,14 +2295,14 @@
         private System.Windows.Forms.PictureBox pictureBox54;
         private System.Windows.Forms.PictureBox pictureBox55;
         private System.Windows.Forms.PictureBox pictureBox56;
-        private System.Windows.Forms.PictureBox pb12;
-        private System.Windows.Forms.PictureBox pb02;
+        private System.Windows.Forms.PictureBox pb0102;
+        private System.Windows.Forms.PictureBox pb0002;
         private System.Windows.Forms.PictureBox pictureBox59;
         private System.Windows.Forms.PictureBox pictureBox27;
         private System.Windows.Forms.PictureBox pictureBox29;
         private System.Windows.Forms.PictureBox pictureBox31;
         private System.Windows.Forms.PictureBox pictureBox33;
-        private System.Windows.Forms.PictureBox pb01;
+        private System.Windows.Forms.PictureBox pb0001;
         private System.Windows.Forms.PictureBox pictureBox37;
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.PictureBox pictureBox13;
@@ -2312,8 +2312,8 @@
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox10;
         private System.Windows.Forms.PictureBox pictureBox11;
-        private System.Windows.Forms.PictureBox pb10;
-        private System.Windows.Forms.PictureBox pb00;
+        private System.Windows.Forms.PictureBox pb0100;
+        private System.Windows.Forms.PictureBox pb0000;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pbPlayer1;
     }

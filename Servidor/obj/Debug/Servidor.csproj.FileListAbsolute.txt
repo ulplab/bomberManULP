@@ -1,0 +1,6 @@
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\bin\Debug\Servidor.exe
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\obj\Debug\Servidor.exe
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Servidor\obj\Debug\Servidor.pdb
