@@ -1,1 +1,9 @@
 C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\bin\Debug\Cliente.exe
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.exe
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.Tablero.resources
