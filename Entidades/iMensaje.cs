@@ -10,11 +10,12 @@ namespace Entidades
     public enum eOwn {Player1, Player2, Player3, Player4, Servidor};
     public enum ePlayer { Player1, Player2, Player3, Player4};
     public enum eNivel { Level1, Level2, Level3};
+    public enum eEstadoPlayer { Vivo, Muerto};
+    public enum eTipoBomba { Bomba1, Bomba2};
 
     interface iMensaje
     {
         eOwn Owner { get; set; }
         eTipoMensaje Tipo { get;}
-        eNivel Nivel { get; set; }
     }
 }
