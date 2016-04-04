@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="iMensaje.cs" />
-    <Compile Include="Mensaje.cs" />
+    <Compile Include="MensajeBomba.cs" />
     <Compile Include="MensajeMover.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
