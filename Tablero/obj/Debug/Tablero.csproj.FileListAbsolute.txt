@@ -1,0 +1,9 @@
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\bin\Debug\Tablero.exe.config
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\bin\Debug\Tablero.exe
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\bin\Debug\Tablero.pdb
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.csprojResolveAssemblyReference.cache
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.Form1.resources
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.csproj.GenerateResource.Cache
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.exe
+c:\users\auxeva\documents\visual studio 2013\Projects\BomberManULP\Tablero\obj\Debug\Tablero.pdb
