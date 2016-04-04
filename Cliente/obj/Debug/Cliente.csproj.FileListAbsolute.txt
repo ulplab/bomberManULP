@@ -7,3 +7,6 @@ C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\D
 C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.exe
 C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.pdb
 C:\Users\Auxeva\Documents\Visual Studio 2013\Projects\BomberManULP\Cliente\obj\Debug\Cliente.Tablero.resources
+D:\ULP\finalOptativaIIIBomberman\bomberManULP\Cliente\bin\Debug\Cliente.exe.config
+D:\ULP\finalOptativaIIIBomberman\bomberManULP\Cliente\obj\Debug\Cliente.exe
+D:\ULP\finalOptativaIIIBomberman\bomberManULP\Cliente\obj\Debug\Cliente.pdb
